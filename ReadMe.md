@@ -15,8 +15,11 @@ This folder contains Three 'ipynb' notebooks. 'tutorial_cluster_scanpy_object' i
 **wine data**:
 
 Name: Wine Quality Data Set (Red & White Wine)
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine]
+
+link: [https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 #### **Second_Assignment**:
@@ -27,15 +30,21 @@ This folder contains two 'ipynb' notebooks. 'tutorial_clustering_words' explains
 **Clinical dataset**:
 
 Name: MACCROBAT2020
+
 From: https://figshare.com
-link: [link][https://figshare.com/articles/dataset/MACCROBAT2018/9764942]
+
+link: [https://figshare.com/articles/dataset/MACCROBAT2018/9764942]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 **Quantum Physics dataset**:
 
 Name: Quantum Physics articles on Arxiv 1994 to 2009
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009/discussion]
+
+link: [https://www.kaggle.com/datasets/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009/discussion]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 #### **Third_Assignment**:
@@ -46,8 +55,11 @@ This folder contains two 'ipynb' notebooks. 'Anomaly_Detection' contains an intr
 **Pupm Sensor dataset**:
 
 Name: pump_sensor_data
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/nphantawee/pump-sensor-data]
+
+link: [https://www.kaggle.com/datasets/nphantawee/pump-sensor-data]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 ### Supervised Learning
@@ -64,8 +76,11 @@ This folder contains two 'ipynb' notebooks. 'E_LR_SVM' notebook describe some of
 **Breast Cancer dataset**:
 
 Name: Cancer Data
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/erdemtaha/cancer-data]
+
+link: [https://www.kaggle.com/datasets/erdemtaha/cancer-data]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 
@@ -75,8 +90,11 @@ This folder contains two 'ipynb' notebooks. 'E_DT_NB' notebook contains the educ
 Similar to the rest of this repository, 'Assignment6' notebook contains the research adventure. dataset in this question is the Titanic dataset, and this research aims at finding the rate of casualty of Titanic passenger based on different parameters such as gender and age. In fact this research intends to answer what parameters can help the passengers to survive from this ctastrophy. Beside the above methods, the focus in this assignment is mainly on data inspection and preprocessing, so one can find valuable insight into the art of inspecting a dataset in a proper way.
 
 Name: The Complete Titanic Dataset
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
+link: [https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 #### **Seventh_Assignment**:
@@ -85,8 +103,11 @@ This folder contains two 'ipynb' notebooks. 'E_BAGGING_BOOSTING.ipynb' contains 
 'Assignment7' notebook contains research adventure of this part. In this assignment the research question of Assignment6 is evaluated again. The reason is that in the privious section the used models cannot show a promising prediction model, so in this assignment I want to inrease the prediction ability of them by using ensemble techniques to show the power of these techniques in camparison with solitary models.
 
 Name: The Complete Titanic Dataset
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
+link: [https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 ### Deep Learning
@@ -96,8 +117,11 @@ Finally, Deep Learning folder contains an introduction on neural network, tensor
 This folder contains one 'ipynb' notebook. 'Assignment_Neural_Network' notebook describes the fundation of neural networks, mathematical background, some of the most famous algorithm, and Keras package. All the mentioned materials are explained by making a neural network for Titanic dataset. Consequently, this notebook is a proper first step to begin a journey in deep learning materials.
 
 Name: The Complete Titanic Dataset
+
 From: https://www.kaggle.com
-link: [link][https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
+link: [https://www.kaggle.com/datasets/vinicius150987/titanic3?resource=download]
+
 Downloading tip: one can easily download the dataset from kaggle website and extract it into a proper folder.
 
 ## Challenges
