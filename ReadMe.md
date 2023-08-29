@@ -145,32 +145,59 @@ This program was written in Python 3.9.13 which is the diffult version of Anacon
 the below packages were used in this program:
 
 glob2                     0.7                pyhd3eb1b0_0
+
 ipykernel                 6.15.2           py39haa95532_0
+
 keras                     2.13.1                   pypi_0    pypi
+
 matplotlib                3.2.0                    pypi_0    pypi
+
 matplotlib-inline         0.1.6            py39haa95532_0
+
 networkx                  2.8.4            py39haa95532_0
+
 nltk                      3.7                pyhd3eb1b0_0
+
 node2vec                  0.4.6                    pypi_0    pypi
+
 numpy                     1.21.6                   pypi_0    pypi
+
 opencv-python             4.7.0.72                 pypi_0    pypi
+
 pandas                    2.0.3                    pypi_0    pypi
+
 pathlib                   1.0.1            py39hcbf5309_7    conda-forge
+
 pylint                    2.14.5           py39haa95532_0
+
 pygam                     0.9.0                    pypi_0    pypi
+
 pysptools                 0.15.0                   pypi_0    pypi
+
 python                    3.9.13               h6244533_1
+
 regex                     2022.7.9         py39h2bbff1b_0
+
 scanpy                    1.9.4                    pypi_0    pypi
+
 scikit-image              0.19.2           py39hf11a4ad_0
+
 scikit-learn              1.2.2                    pypi_0    pypi
+
 scikit-learn-intelex      2021.6.0         py39haa95532_0
+
 scipy                     1.9.1                    pypi_0    pypi
+
 seaborn                   0.12.2                   pypi_0    pypi
+
 statsmodels               0.13.2           py39h2bbff1b_0
+
 tensorflow                2.13.0                   pypi_0    pypi
+
 tmtoolkit                 0.12.0                   pypi_0    pypi
+
 wordcloud                 1.9.2                    pypi_0    pypi
+
 yaml                      0.2.5                he774522_0    conda-forge
 
 Regarding technical aspect of using this repository, one can download all the material on my github repository. To work with each folder, one can first download the relevant dataset, save it in a proper directory, and change the 'file_direction' in the config file to the mentioned directory. Also the name of the file in the config file ('file_name') should change to the name of the downloaded file. Then one can open a notebook and start to use it. 
@@ -182,7 +209,9 @@ Each notebook has its own links and references, so one can find the references i
 
 https://github.com/fenna/BFVM23DATASCNC5
 
-To get access to this repository one can click on the following [link][https://github.com/hooman-b/Machine_learning_assignments]
+To get access to this repository one can click on the following link
+
+[https://github.com/hooman-b/Machine_learning_assignments]
 
 ## License
 apache license 2.0
